@@ -1,13 +1,12 @@
+spring:
+  application:
+    name: greeting-service
 management:
   endpoints:
     web:
       exposure:
         include:
           - '*'
-spring:
-  application:
-    name: greeting-service
-
 greeting-service:
-  greeting: "Ola"
+  greeting: "Hello"
   default-value: "QA"
