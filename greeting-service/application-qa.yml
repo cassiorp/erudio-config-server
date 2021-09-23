@@ -8,5 +8,5 @@ management:
         include:
           - '*'
 greeting-service:
-  greeting: "Hello"
+  greeting: "Hello QA ENCTROA BUG"
   default-value: "QA"

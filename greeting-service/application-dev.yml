@@ -8,5 +8,5 @@ management:
         include:
           - '*'
 greeting-service:
-  greeting: "Hello"
+  greeting: "Hello Perfil de dev"
   default-value: "DEV"
